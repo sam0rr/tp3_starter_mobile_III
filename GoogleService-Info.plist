@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyD0RibEX9qgRqjXQkQCFy1elpJO1wTQsyw</string>
+	<string>AIzaSyDcQcts1D6y_cHZIeONNiPGsI51WqtHWok</string>
 	<key>GCM_SENDER_ID</key>
-	<string>384010929476</string>
+	<string>212728543999</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.cegeplabs.tp3-2348284</string>
+	<string>com.cegeplabs-tp3-2285198</string>
 	<key>PROJECT_ID</key>
-	<string>mobile-tp3-18333</string>
+	<string>chatit-311ac</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mobile-tp3-18333.firebasestorage.app</string>
+	<string>chatit-311ac.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:384010929476:ios:f140e0fe1eeaed4cce8311</string>
+	<string>1:212728543999:ios:03f460b4e9553b12f72aca</string>
 </dict>
 </plist>
